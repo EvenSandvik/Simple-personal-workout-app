@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkoutAppProgOverload", "WorkoutAppProgOverload\WorkoutAppProgOverload.csproj", "{CAEC7377-A899-42F7-8C42-96EA07CD8DFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAEC7377-A899-42F7-8C42-96EA07CD8DFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAEC7377-A899-42F7-8C42-96EA07CD8DFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAEC7377-A899-42F7-8C42-96EA07CD8DFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAEC7377-A899-42F7-8C42-96EA07CD8DFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
